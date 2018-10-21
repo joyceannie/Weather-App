@@ -1,6 +1,6 @@
 # Weather App
 
-This is an application to search the current weather in a gib=ven city.
+This is an application to search the current weather in a given city.
 
 ### Getting Started
 
